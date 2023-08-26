@@ -1,5 +1,4 @@
 # Jigsaw-Puzzle
-# Jigsaw-Puzzle
 This program will solve the problem given below:<br>
 Consider you have an agent for a Jigsaw puzzle. The goal of the agent is to complete the Jigsaw 
 puzzle in fixed number of moves. Your implementation should be modular so that the sensors, 
